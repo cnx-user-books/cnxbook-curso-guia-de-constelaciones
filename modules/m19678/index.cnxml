@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>descarga archivos</title>
+<metadata>
+  <md:content-id>m19678</md:content-id><md:title>descarga archivos</md:title>
+  <md:abstract>vemos una imágen y descargamos archivo pdf.</md:abstract>
+  <md:uuid>86f7fc97-2b1a-4556-b5ea-808702e31153</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><title>Orión</title><media id="dogpic" display="block" alt="orion">
+		<image mime-type="image/jpeg" src="orion.jpg"/>
+	</media>
+
+
+</para><para id="eip-839"><title>Descarga pdf </title><link url="http://cnx.org/Members/soledad/Scorpius.pdf/" window="new">
+    Haz clic aquí
+  </link>.
+</para>
+</content>
+
+</document>

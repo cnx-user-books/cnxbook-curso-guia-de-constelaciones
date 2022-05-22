@@ -1,0 +1,36 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10652</md:content-id>
+    <md:title>Curso guia de Constelaciones</md:title>
+    <md:language>es</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>23ad700b-99cd-4f61-b9f4-816d079cfdd9</md:uuid>
+<md:slug>curso-guia-de-constelaciones</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>nivel 1</md:title>
+      <col:content>
+        <col:module document="m19672"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>nivel 2</md:title>
+      <col:content>
+        <col:module document="m19673"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>nivel 3</md:title>
+      <col:content>
+        <col:module document="m19674"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>descarga de archivos</md:title>
+      <col:content>
+        <col:module document="m19678"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

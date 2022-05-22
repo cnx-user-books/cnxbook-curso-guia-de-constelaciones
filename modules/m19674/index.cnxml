@@ -1,0 +1,870 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Listado de Constelaciones</title>
+  <metadata>
+  <md:content-id>m19674</md:content-id><md:title>Listado de Constelaciones</md:title>
+  <md:abstract>Listado de las 88 constelaciones modernas.</md:abstract>
+  <md:uuid>e4bf7564-df6f-4446-b672-f08cdb06fc98</md:uuid>
+</metadata>
+
+<content>
+    <section id="id17573702">
+      <title>Listado Constelaciones</title>
+      <para id="id22320571">Listado de las 88 <link url="http://es.wikipedia.org/wiki/Constelación">constelaciones</link> en que se divide el cielo nocturno. La misma fue adoptada por la <link url="http://es.wikipedia.org/wiki/Unión_Astronómica_Internacional">Unión Astronómica Internacional</link> en <link url="http://es.wikipedia.org/wiki/1930">1930</link>.</para>
+      <para id="id23503728">
+        <figure id="id19949806">
+          <media id="id19949806_media" alt="">
+            <image mime-type="image/png" src="../../media/600px-Cartacelesteasterismos.png" id="id19949806__onlineimage" height="314" width="625"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id23118819">
+        <figure id="id22719751">
+          <media id="id22719751_media" alt="">
+            <image mime-type="image/png" src="../../media/magnify-clip.png" id="id22719751__onlineimage" height="11" width="16"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id14608540">Carta moderna representativa de las áreas y los asterismos de las 88 constelaciones reconocidas por la Unión Astronómica Internacional; el nombre de cada una de ellas se da en español</para>
+      <para id="id20764034">La siguiente tabla está organizada alfabéticamente, según la nomenclatura latina (de uso general). Se incluye, además, la abreviatura generalmente dada a cada constelación, el <link url="http://es.wikipedia.org/wiki/Genitivo">genitivo</link> y el nombre en español.</para>
+      <table id="id17917745" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Nombre en latín</entry>
+              <entry>Abreviatura</entry>
+              <entry>Genitivo</entry>
+              <entry namest="c4" nameend="c5">Nombre en castellano y significado</entry>
+              <entry>Origen</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Andrómeda_(constelación)">Andromeda</link>
+              </entry>
+              <entry>And</entry>
+              <entry>Andromedae</entry>
+              <entry namest="c4" nameend="c5">
+                <link url="http://es.wikipedia.org/wiki/Andrómeda_(mitología)">Andrómeda</link>
+              </entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Antlia">Antlia</link>
+              </entry>
+              <entry>Ant</entry>
+              <entry>Antliae</entry>
+              <entry namest="c4" nameend="c5">Antlia, la máquina <link url="http://es.wikipedia.org/wiki/Neumática">neumática</link></entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Apus">Apus</link>
+              </entry>
+              <entry>Apu</entry>
+              <entry>Apodis</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Paradisaeidae">Ave del Paraíso</link></entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Acuario_(constelación)">Aquarius</link>
+              </entry>
+              <entry>Aqr</entry>
+              <entry>Aquarii</entry>
+              <entry namest="c4" nameend="c5">Acuario, el aguador o escanciador <emphasis effect="italics">(</emphasis><link url="http://es.wikipedia.org/wiki/Ganímedes_(mitología)"><emphasis effect="italics">Ganímedes</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Aquila_(constelación)">Aquila</link>
+              </entry>
+              <entry>Aql</entry>
+              <entry>Aquilae</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Águila">Águila</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Ara_(constelación)">Ara</link>
+              </entry>
+              <entry>Ara</entry>
+              <entry>Arae</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Altar_(religión)">Altar</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Aries">Aries</link>
+              </entry>
+              <entry>Ari</entry>
+              <entry>Arietis</entry>
+              <entry namest="c4" nameend="c5">Aries, el <link url="http://es.wikipedia.org/wiki/Ovis_aries">carnero</link><emphasis effect="italics">(Crisomalo, el carnero del </emphasis><link url="http://es.wikipedia.org/wiki/Vellocino_de_oro"><emphasis effect="italics">vellocino de oro</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Auriga_(constelación)">Auriga</link>
+              </entry>
+              <entry>Aur</entry>
+              <entry>Aurigae</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Auriga">Auriga</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Bootes">Bootes</link>
+              </entry>
+              <entry>Boo</entry>
+              <entry>Bootis</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Bootes#Mitolog.C3.ADa">Boyero</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Caelum">Caelum</link>
+              </entry>
+              <entry>Cae</entry>
+              <entry>Caeli</entry>
+              <entry namest="c4" nameend="c5">Caelum, el <link url="http://es.wikipedia.org/wiki/Cincel">cincel</link></entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Camelopardalis">Camelopardalis</link>
+              </entry>
+              <entry>Cam</entry>
+              <entry>Camelopardalis</entry>
+              <entry namest="c4" nameend="c5">La <link url="http://es.wikipedia.org/wiki/Giraffa_camelopardalis">Jirafa</link></entry>
+              <entry>1613 (<link url="http://es.wikipedia.org/wiki/Petrus_Plancius">Plancius</link>), 1624 (<link url="http://es.wikipedia.org/w/index.php?title=Jakob_Bartsch&amp;action=edit&amp;redlink=1">Bartsch</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Cáncer_(constelación)">Cancer</link>
+              </entry>
+              <entry>Cnc</entry>
+              <entry>Cancri</entry>
+              <entry namest="c4" nameend="c5">Cáncer, el <link url="http://es.wikipedia.org/wiki/Cangrejo">cangrejo</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Canes_Venatici">Canes Venatici</link>
+              </entry>
+              <entry>CVn</entry>
+              <entry>Canum Venaticorum</entry>
+              <entry namest="c4" nameend="c5">Canes Venatici, los perros de caza <emphasis effect="italics">(del Boyero, </emphasis><link url="http://es.wikipedia.org/wiki/Canes_Venatici#Mitolog.C3.ADa"><emphasis effect="italics">Asterion y Chara</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entrytbl namest="c1" nameend="c4" cols="4">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <tbody>
+                  <row>
+                    <entry>
+                      <link url="http://es.wikipedia.org/wiki/Canis_Maior">Canis Maior</link>
+                    </entry>
+                    <entry>CMa</entry>
+                    <entry>Canis Majoris</entry>
+                    <entry>El Can Mayor</entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <link url="http://es.wikipedia.org/wiki/Canis_Minor">Canis Minor</link>
+                    </entry>
+                    <entry>CMi</entry>
+                    <entry>Canis Minoris</entry>
+                    <entry>El Can Menor</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <emphasis effect="italics">(Los perros de caza de </emphasis>
+                <link url="http://es.wikipedia.org/wiki/Orión_(mitología)">
+                  <emphasis effect="italics">Orión</emphasis>
+                </link>
+                <emphasis effect="italics">)</emphasis>
+              </entry>
+              <entrytbl cols="1">
+                <colspec colnum="1" colname="c1"/>
+                <tbody>
+                  <row>
+                    <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+                  </row>
+                  <row>
+                    <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Capricornus">Capricornus</link>
+              </entry>
+              <entry>Cap</entry>
+              <entry>Capricorni</entry>
+              <entry namest="c4" nameend="c5">Capricornio, el animal mitad <link url="http://es.wikipedia.org/wiki/Capra">cabra</link>, mitad criatura marina; según el mito griego, representa a <link url="http://es.wikipedia.org/wiki/Pan_(mitología)">Pan</link>, que adopta esta forma para luchar contra <link url="http://es.wikipedia.org/wiki/Tifón_(mitología)">Tifón</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Carina">Carina</link>
+              </entry>
+              <entry>Car</entry>
+              <entry>Carinae</entry>
+              <entry namest="c4" nameend="c5">Carina, la <link url="http://es.wikipedia.org/wiki/Quilla_(náutica)">quilla</link><emphasis effect="italics">(de la nave </emphasis><link url="http://es.wikipedia.org/wiki/Argo"><emphasis effect="italics">Argo</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>), anteriormente parte de <link url="http://es.wikipedia.org/wiki/Argo_Navis">Argo Navis</link> (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Cassiopeia_(constelación)">Cassiopeia</link>
+              </entry>
+              <entry>Cas</entry>
+              <entry>Cassiopeiae</entry>
+              <entry namest="c4" nameend="c5"><link url="http://es.wikipedia.org/wiki/Casiopea">Casiopea</link>, madre de <link url="http://es.wikipedia.org/wiki/Andrómeda_(mitología)">Andrómeda</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Centaurus">Centaurus</link>
+              </entry>
+              <entry>Cen</entry>
+              <entry>Centauri</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Centauro">Centauro</link><emphasis effect="italics">(</emphasis><link url="http://es.wikipedia.org/wiki/Quirón"><emphasis effect="italics">Quirón</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Cefeo_(constelación)">Cepheus</link>
+              </entry>
+              <entry>Cep</entry>
+              <entry>Cephei</entry>
+              <entry namest="c4" nameend="c5"><link url="http://es.wikipedia.org/wiki/Cefeo">Cefeo</link>, padre de <link url="http://es.wikipedia.org/wiki/Andrómeda_(mitología)">Andrómeda</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Cetus">Cetus</link>
+              </entry>
+              <entry>Cet</entry>
+              <entry>Ceti</entry>
+              <entry namest="c4" nameend="c5"><link url="http://es.wikipedia.org/wiki/Ceto">Ceto</link>, <link url="http://es.wikipedia.org/wiki/Monstruo_marino">monstruo marino</link> del mito de <link url="http://es.wikipedia.org/wiki/Andrómeda_(mitología)">Andrómeda</link></entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Chamaeleon">Chamaeleon</link>
+              </entry>
+              <entry>Cha</entry>
+              <entry>Chamaeleontis</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Chamaeleonidae">Camaleón</link></entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Circinus">Circinus</link>
+              </entry>
+              <entry>Cir</entry>
+              <entry>Circini</entry>
+              <entry namest="c4" nameend="c5">El <link url="http://es.wikipedia.org/wiki/Compás_(geometría)">Compás</link></entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Columba_(constelación)">Columba</link>
+              </entry>
+              <entry>Col</entry>
+              <entry>Columbae</entry>
+              <entry namest="c4" nameend="c5">La <link url="http://es.wikipedia.org/wiki/Columbidae">Paloma</link><emphasis effect="italics">(la paloma del mito de </emphasis><link url="http://es.wikipedia.org/wiki/Noé"><emphasis effect="italics">Noé</emphasis></link><emphasis effect="italics">)</emphasis></entry>
+              <entry>1592 (<link url="http://es.wikipedia.org/wiki/Petrus_Plancius">Plancius</link>), 1679 (<link url="http://es.wikipedia.org/w/index.php?title=Augustin_Royer&amp;action=edit&amp;redlink=1">Royer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Coma_Berenices">Coma Berenices</link>
+              </entry>
+              <entry>Com</entry>
+              <entry>Comae Berenices</entry>
+              <entry namest="c4" nameend="c5">La Cabellera de <link url="http://es.wikipedia.org/wiki/Berenice_II">Berenice</link></entry>
+              <entry>1602 (<link url="http://es.wikipedia.org/wiki/Tycho_Brahe">Brahe</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Corona_Australis">Corona Australis</link>
+              </entry>
+              <entry>CrA</entry>
+              <entry>Coronae Australis</entry>
+              <entry namest="c4" nameend="c5">La Corona Austral</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Corona_Borealis">Corona Borealis</link>
+              </entry>
+              <entry>CrB</entry>
+              <entry>Coronae Borealis</entry>
+              <entry namest="c4" nameend="c5">La Corona Boreal</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Corvus_(constelación)">Corvus</link>
+              </entry>
+              <entry>Crv</entry>
+              <entry>Corvi</entry>
+              <entry namest="c4" nameend="c5">Cuervo</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Crater_(constelación)">Cráter</link>
+              </entry>
+              <entry>Crt</entry>
+              <entry>Crateris</entry>
+              <entry namest="c4" nameend="c5">Copa</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Crux">Crux</link>
+              </entry>
+              <entry>Cru</entry>
+              <entry>Crucis</entry>
+              <entry namest="c4" nameend="c5">Cruz del Sur</entry>
+              <entry>1589 (<link url="http://es.wikipedia.org/wiki/Petrus_Plancius">Plancius</link>), 1679 (<link url="http://es.wikipedia.org/w/index.php?title=Augustin_Royer&amp;action=edit&amp;redlink=1">Royer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Cygnus_(constelación)">Cygnus</link>
+              </entry>
+              <entry>Cyg</entry>
+              <entry>Cygni</entry>
+              <entry namest="c4" nameend="c5">Cisne</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Delphinus_(constelación)">Delphinus</link>
+              </entry>
+              <entry>Del</entry>
+              <entry>Delphini</entry>
+              <entry namest="c4" nameend="c5">Delfín</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Dorado_(constelación)">Dorado</link>
+              </entry>
+              <entry>Dor</entry>
+              <entry>Doradus</entry>
+              <entry namest="c4" nameend="c5">Pez Dorado</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Draco_(constelación)">Draco</link>
+              </entry>
+              <entry>Dra</entry>
+              <entry>Draconis</entry>
+              <entry namest="c4" nameend="c5">Dragón</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Equuleus">Equuleus</link>
+              </entry>
+              <entry>Equ</entry>
+              <entry>Equulei</entry>
+              <entry namest="c4" nameend="c5">Pequeño Caballo, Caballito</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Eridanus_(constelación)">Eridanus</link>
+              </entry>
+              <entry>Eri</entry>
+              <entry>Eridani</entry>
+              <entry namest="c4" nameend="c5">Erídano</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Fornax">Fornax</link>
+              </entry>
+              <entry>For</entry>
+              <entry>Fornacis</entry>
+              <entry namest="c4" nameend="c5">Horno</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Géminis">Gemini</link>
+              </entry>
+              <entry>Gem</entry>
+              <entry>Geminorum</entry>
+              <entry namest="c4" nameend="c5">Géminis, Gemelos</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Grus_(constelación)">Grus</link>
+              </entry>
+              <entry>Gru</entry>
+              <entry>Gruis</entry>
+              <entry namest="c4" nameend="c5">Grulla</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Hercules_(constelación)">Hercules</link>
+              </entry>
+              <entry>Her</entry>
+              <entry>Herculis</entry>
+              <entry namest="c4" nameend="c5">Hércules</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Horologium">Horologium</link>
+              </entry>
+              <entry>Hor</entry>
+              <entry>Horologii</entry>
+              <entry namest="c4" nameend="c5">Reloj</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Hydra_(constelación)">Hydra</link>
+              </entry>
+              <entry>Hya</entry>
+              <entry>Hydrae</entry>
+              <entry namest="c4" nameend="c5">Hidra</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Hydrus">Hydrus</link>
+              </entry>
+              <entry>Hyi</entry>
+              <entry>Hydri</entry>
+              <entry namest="c4" nameend="c5">Hidra macho</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Indus_(constelación)">Indus</link>
+              </entry>
+              <entry>Ind</entry>
+              <entry>Indi</entry>
+              <entry namest="c4" nameend="c5">Indio (americano)</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Lacerta">Lacerta</link>
+              </entry>
+              <entry>Lac</entry>
+              <entry>Lacertae</entry>
+              <entry namest="c4" nameend="c5">Lagartija</entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Leo">Leo</link>
+              </entry>
+              <entry>Leo</entry>
+              <entry>Leonis</entry>
+              <entry namest="c4" nameend="c5">Leo, León</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Leo_Minor">Leo Minor</link>
+              </entry>
+              <entry>LMi</entry>
+              <entry>Leonis Minoris</entry>
+              <entry namest="c4" nameend="c5">León Menor</entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Lepus_(constelación)">Lepus</link>
+              </entry>
+              <entry>Lep</entry>
+              <entry>Leporis</entry>
+              <entry namest="c4" nameend="c5">Liebre</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Libra_(constelación)">Libra</link>
+              </entry>
+              <entry>Lib</entry>
+              <entry>Librae</entry>
+              <entry namest="c4" nameend="c5">Libra, Balanza</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Lupus_(constelación)">Lupus</link>
+              </entry>
+              <entry>Lup</entry>
+              <entry>Lupi</entry>
+              <entry namest="c4" nameend="c5">Lobo</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Lynx_(constelación)">Lynx</link>
+              </entry>
+              <entry>Lyn</entry>
+              <entry>Lyncis</entry>
+              <entry namest="c4" nameend="c5">Lince</entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Lyra">Lyra</link>
+              </entry>
+              <entry>Lyr</entry>
+              <entry>Lyrae</entry>
+              <entry namest="c4" nameend="c5">Lira</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Mensa_(constelación)">Mensa</link>
+              </entry>
+              <entry>Men</entry>
+              <entry>Mensae</entry>
+              <entry namest="c4" nameend="c5">Mesa</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Microscopium">Microscopium</link>
+              </entry>
+              <entry>Mic</entry>
+              <entry>Microscopii</entry>
+              <entry namest="c4" nameend="c5">Microscopio</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Monoceros">Monoceros</link>
+              </entry>
+              <entry>Mon</entry>
+              <entry>Monocerotis</entry>
+              <entry namest="c4" nameend="c5">Unicornio</entry>
+              <entry>1613 (<link url="http://es.wikipedia.org/wiki/Petrus_Plancius">Plancius</link>), 1624 (<link url="http://es.wikipedia.org/w/index.php?title=Jakob_Bartsch&amp;action=edit&amp;redlink=1">Bartsch</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Musca">Musca</link>
+              </entry>
+              <entry>Mus</entry>
+              <entry>Muscae</entry>
+              <entry namest="c4" nameend="c5">Mosca</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Norma_(constelación)">Norma</link>
+              </entry>
+              <entry>Nor</entry>
+              <entry>Normae</entry>
+              <entry namest="c4" nameend="c5">Regla</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Octans">Octans</link>
+              </entry>
+              <entry>Oct</entry>
+              <entry>Octantis</entry>
+              <entry namest="c4" nameend="c5">Octante</entry>
+              <entry>1763, <link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link></entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Ofiuco">Ophiuchus</link>
+              </entry>
+              <entry>Oph</entry>
+              <entry>Ophiuchi</entry>
+              <entry namest="c4" nameend="c5">Ofiuco</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Orión_(constelación)">Orion</link>
+              </entry>
+              <entry>Ori</entry>
+              <entry>Orionis</entry>
+              <entry namest="c4" nameend="c5">Orión</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Pavo_(constelación)">Pavo</link>
+              </entry>
+              <entry>Pav</entry>
+              <entry>Pavonis</entry>
+              <entry namest="c4" nameend="c5">Pavo</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Pegaso_(constelación)">Pegasus</link>
+              </entry>
+              <entry>Peg</entry>
+              <entry>Pegasi</entry>
+              <entry namest="c4" nameend="c5">Pegaso</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Perseus">Perseus</link>
+              </entry>
+              <entry>Per</entry>
+              <entry>Persei</entry>
+              <entry namest="c4" nameend="c5">Perseo</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Phoenix_(constelación)">Phoenix</link>
+              </entry>
+              <entry>Phe</entry>
+              <entry>Phoenicis</entry>
+              <entry namest="c4" nameend="c5">Fénix</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Pictor">Pictor</link>
+              </entry>
+              <entry>Pic</entry>
+              <entry>Pictoris</entry>
+              <entry namest="c4" nameend="c5">Paleta del Pintor</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Piscis">Pisces</link>
+              </entry>
+              <entry>Psc</entry>
+              <entry>Piscium</entry>
+              <entry namest="c4" nameend="c5">Piscis, Peces</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Piscis_Austrinus">Piscis Austrinus</link>
+              </entry>
+              <entry>PsA</entry>
+              <entry>Piscis Austrini</entry>
+              <entry namest="c4" nameend="c5">Pez Austral</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Puppis">Puppis</link>
+              </entry>
+              <entry>Pup</entry>
+              <entry>Puppis</entry>
+              <entry namest="c4" nameend="c5">Popa</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>), anteriormente parte de <link url="http://es.wikipedia.org/wiki/Argo_Navis">Argo Navis</link> (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Brújula_(constelación)">Pyxis</link>
+              </entry>
+              <entry>Pyx</entry>
+              <entry>Pyxidis</entry>
+              <entry namest="c4" nameend="c5">Brújula</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Reticulum">Reticulum</link>
+              </entry>
+              <entry>Ret</entry>
+              <entry>Reticuli</entry>
+              <entry namest="c4" nameend="c5">Retícula</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Sagita">Sagitta</link>
+              </entry>
+              <entry>Sge</entry>
+              <entry>Sagittae</entry>
+              <entry namest="c4" nameend="c5">Flecha</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Sagitario">Sagittarius</link>
+              </entry>
+              <entry>Sgr</entry>
+              <entry>Sagittarii</entry>
+              <entry namest="c4" nameend="c5">Sagitario, Arquero</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Scorpius">Scorpius</link>
+              </entry>
+              <entry>Sco</entry>
+              <entry>Scorpii</entry>
+              <entry namest="c4" nameend="c5">Escorpio, Escorpión</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Sculptor">Sculptor</link>
+              </entry>
+              <entry>Scl</entry>
+              <entry>Sculptoris</entry>
+              <entry namest="c4" nameend="c5">Escultor</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Scutum_(constelación)">Scutum</link>
+              </entry>
+              <entry>Sct</entry>
+              <entry>Scuti</entry>
+              <entry namest="c4" nameend="c5">Escudo</entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Serpens">Serpens</link>
+              </entry>
+              <entry>Ser</entry>
+              <entry>Serpentis</entry>
+              <entry namest="c4" nameend="c5">Serpiente</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Sextans">Sextans</link>
+              </entry>
+              <entry>Sex</entry>
+              <entry>Sextantis</entry>
+              <entry namest="c4" nameend="c5">Sextante</entry>
+              <entry>1683 (<link url="http://es.wikipedia.org/wiki/Johannes_Hevelius">Hevelius</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Tauro">Taurus</link>
+              </entry>
+              <entry>Tau</entry>
+              <entry>Tauri</entry>
+              <entry namest="c4" nameend="c5">Tauro, Toro</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Telescopium">Telescopium</link>
+              </entry>
+              <entry>Tel</entry>
+              <entry>Telescopii</entry>
+              <entry namest="c4" nameend="c5">Telescopio</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Triangulum">Triangulum</link>
+              </entry>
+              <entry>Tri</entry>
+              <entry>Trianguli</entry>
+              <entry namest="c4" nameend="c5">Triángulo</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Triangulum_Australe">Triangulum Australe</link>
+              </entry>
+              <entry>TrA</entry>
+              <entry>Trianguli Australi</entry>
+              <entry namest="c4" nameend="c5">Triángulo Austral</entry>
+              <entry>1589 (<link url="http://es.wikipedia.org/wiki/Petrus_Plancius">Plancius</link>), 1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Tucana">Tucana</link>
+              </entry>
+              <entry>Tuc</entry>
+              <entry>Tucanae</entry>
+              <entry namest="c4" nameend="c5">Tucán</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Osa_Mayor">Ursa Maior</link>
+              </entry>
+              <entry>UMa</entry>
+              <entry>Ursae Majoris</entry>
+              <entry namest="c4" nameend="c5">Osa Mayor</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Osa_Menor">Ursa Minor</link>
+              </entry>
+              <entry>UMi</entry>
+              <entry>Ursae Minoris</entry>
+              <entry namest="c4" nameend="c5">Osa Menor</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Vela_(constelación)">Vela</link>
+              </entry>
+              <entry>Vel</entry>
+              <entry>Velorum</entry>
+              <entry namest="c4" nameend="c5">Vela</entry>
+              <entry>1763 (<link url="http://es.wikipedia.org/wiki/Nicolas_Louis_de_Lacaille">Lacaille</link>), anteriormente parte de <link url="http://es.wikipedia.org/wiki/Argo_Navis">Argo Navis</link> (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Virgo">Virgo</link>
+              </entry>
+              <entry>Vir</entry>
+              <entry>Virginis</entry>
+              <entry namest="c4" nameend="c5">Virgo, Virgen</entry>
+              <entry>Antiguo (<link url="http://es.wikipedia.org/wiki/Claudio_Ptolomeo">Ptolomeo</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Volans">Volans</link>
+              </entry>
+              <entry>Vol</entry>
+              <entry>Volantis</entry>
+              <entry namest="c4" nameend="c5">Pez Volador</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+            <row>
+              <entry>
+                <link url="http://es.wikipedia.org/wiki/Vulpecula">Vulpecula</link>
+              </entry>
+              <entry>Vul</entry>
+              <entry>Vulpeculae</entry>
+              <entry namest="c4" nameend="c5">Zorra</entry>
+              <entry>1603 (<link url="http://es.wikipedia.org/wiki/Johann_Bayer">Bayer</link>)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
